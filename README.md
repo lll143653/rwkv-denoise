@@ -8,6 +8,6 @@
 可对sidd验证集进行测试。sidd 验证集可从[sidd medium](https://abdokamel.github.io/sidd/#sidd-medium)下载
 运行
 `
- python inference.py --img weights/0.png
+ python inference.py --img examples/0.png
 `
 可对单张图片进行去噪。
